@@ -7,14 +7,13 @@ package org.example.ru.stimmax.lessons.lesson06.homeworks
 
 fun main() {
     season(7)
-    petAge(2.0000000000009)
-    departureBy(1.00000000001)
+    petAge(2.0)
+    departureBy(1.0)
     bonusPoint(1500)
     documentType("png")
     convertTemp(10.0, 'c')
     clothingOfType(13)
     filmCategory(7)
-
 }
 
 fun season(month: Int) {
