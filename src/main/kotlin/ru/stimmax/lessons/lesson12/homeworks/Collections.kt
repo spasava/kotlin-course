@@ -2,7 +2,7 @@ package org.example.ru.stimmax.lessons.lesson12.homeworks
 
 class Collections {
     fun main() {
-        //Задачи на приведение коллекции к значению
+        // Задачи на приведение коллекции к значению
         val numbers = listOf(10, 20, 30, 40, 50, 60)
 
         println("1) Size > 5: ${numbers.size > 5}")
