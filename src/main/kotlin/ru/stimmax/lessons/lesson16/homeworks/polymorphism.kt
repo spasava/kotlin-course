@@ -6,7 +6,6 @@ class polymorphism {package lessons.lesson16.homeworks
     /* ---------------------------
        1. Переопределение методов
     --------------------------- */
-
     // Базовый класс Animal
     open class Animal {
         open fun makeSound() {
