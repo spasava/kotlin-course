@@ -1,7 +1,8 @@
 package org.example.ru.stimmax.lessons.lesson16.homeworks
 
-class polymorphism {package lessons.lesson16.homeworks
-    import kotlin.math.*
+import kotlin.math.sin
+
+class polymorphism {
 
     /* ---------------------------
        1. Переопределение методов
