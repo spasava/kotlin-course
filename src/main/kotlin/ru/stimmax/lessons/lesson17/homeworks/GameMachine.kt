@@ -84,4 +84,5 @@ class GameMachine(
         println("Выдано наличных: $balance")
         balance = 0.0
     }
+
 }

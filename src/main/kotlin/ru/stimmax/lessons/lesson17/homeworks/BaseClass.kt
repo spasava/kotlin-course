@@ -63,4 +63,5 @@ open class BaseClass(privateVal1: String, protectedVal1: String, publicVal1: Str
         protected class ProtectedClass
         private class PrivateClass
     }
+
 }
