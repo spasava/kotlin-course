@@ -1,6 +1,6 @@
-package org.example.ru.stimmax.lessons.lesson17.homeworks
+package lessons.lesson17.homeworks
 
-class GameMachine {class GameMachine(
+class GameMachine(
     val color: String,
     val model: String,
     private var isOn: Boolean = false,
@@ -84,5 +84,4 @@ class GameMachine {class GameMachine(
         println("Выдано наличных: $balance")
         balance = 0.0
     }
-}
 }
